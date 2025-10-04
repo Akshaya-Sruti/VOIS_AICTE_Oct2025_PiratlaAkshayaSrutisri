@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains project work for the VOIS & AICTE Virtual Internship 2025, led by Piratla Akshaya Srutisri. The focus of the internship is on conversational data analysis leveraging Large Language Models (LLMs). The repository includes Jupyter notebooks, code scripts, datasets, and documentation relevant to the final project completed as part of the internship.[1]
+This repository contains project work for the VOIS & AICTE Virtual Internship 2025, led by Piratla Akshaya Srutisri. The focus of the internship is on conversational data analysis leveraging Large Language Models (LLMs). The repository includes Jupyter notebooks, code scripts, datasets, and documentation relevant to the final project completed as part of the internship.
 
 ## About the Project
 
@@ -14,7 +14,7 @@ This repository contains project work for the VOIS & AICTE Virtual Internship 20
 - **Project Focus:**  
   - Building, evaluating, and deploying models for analyzing and summarizing conversational datasets  
   - Applying state-of-the-art Natural Language Processing techniques  
-  - Gaining hands-on experience with real-world data and evaluation tasks[2][1]
+  - Gaining hands-on experience with real-world data and evaluation tasks
 
 ## Contents
 
